@@ -1,0 +1,36 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/1/hvd.32044015466733/011.png"; bbox 0 0 4082 6338; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 143 85 673 189">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 143 85 673 189">
+     <span class='ocr_line' id='line_1_1' title="bbox 143 85 673 189; baseline -0.036 2"><span class='ocrx_word' id='word_1_1' title='bbox 143 85 673 189; x_wconf 56' lang='grc' dir='ltr'><strong>εςςὼι</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1572 1636 2287 1723">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1572 1636 2287 1723">
+     <span class='ocr_line' id='line_1_2' title="bbox 1572 1636 2287 1723; baseline -0.053 0"><span class='ocrx_word' id='word_1_2' title='bbox 1572 1667 1801 1723; x_wconf 77' lang='lat' dir='ltr'><strong>HABVARD</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1829 1652 2056 1718; x_wconf 65' lang='lat' dir='ltr'><strong>COLLEGE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2080 1636 2287 1699; x_wconf 72' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1368 1838 2393 2012">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1368 1838 2393 2012">
+     <span class='ocr_line' id='line_1_3' title="bbox 1368 1838 2393 2012; baseline -0.04 11"><span class='ocrx_word' id='word_1_5' title='bbox 1368 1862 1731 2012; x_wconf 55' lang='grc' dir='ltr'><em>ίίῖδῗ</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1758 1838 2181 1982; x_wconf 45' lang='lat' dir='ltr'><strong>fimo/74</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2212 1879 2393 1982; x_wconf 59' lang='grc' dir='ltr'><strong>λλ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1392 2028 2230 2251">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1392 2028 2230 2251">
+     <span class='ocr_line' id='line_1_4' title="bbox 1392 2028 2230 2222; baseline -0.012 -52"><span class='ocrx_word' id='word_1_8' title='bbox 1392 2173 1409 2207; x_wconf 36' lang='grc' dir='ltr'>ί</span> <span class='ocrx_word' id='word_1_9' title='bbox 1621 2028 2230 2222; x_wconf 40' lang='grc' dir='ltr'><strong>ὲθῳωίᾷ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1392 2176 2230 2251; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 1576 2240 1641 2251; x_wconf 70' lang='lat'><strong>-.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1702 2176 2099 2251; x_wconf 21' lang='lat' dir='ltr'><strong>{xii/ub,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2200 2203 2230 2251; x_wconf 65' lang='grc' dir='ltr'><em>Α</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1228 2365 2309 2606">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1228 2365 2309 2606">
+     <span class='ocr_line' id='line_1_6' title="bbox 1228 2365 2309 2589; baseline -0.04 -90"><span class='ocrx_word' id='word_1_13' title='bbox 1228 2480 1342 2589; x_wconf 53' lang='grc' dir='ltr'><em>φ</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1548 2518 1557 2527; x_wconf 14' lang='grc'><strong><em>²</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1635 2367 1793 2501; x_wconf 54' lang='grc' dir='ltr'><strong>(Α.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1840 2365 2309 2495; x_wconf 56' lang='lat' dir='ltr'><strong>aui/Ir.)</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 1285 2504 2291 2606; baseline -0.044 7"><span class='ocrx_word' id='word_1_17' title='bbox 1285 2521 1813 2606; x_wconf 60' lang='lat' dir='ltr'><strong>/Wmt</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1845 2517 1957 2606; x_wconf 60' lang='grc' dir='ltr'><em>Α</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1983 2504 2291 2606; x_wconf 46' lang='grc' dir='ltr'><em>βάλω</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>

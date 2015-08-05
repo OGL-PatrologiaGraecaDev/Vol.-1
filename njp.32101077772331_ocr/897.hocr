@@ -1,0 +1,22 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/1/njp.32101077772331/897.png"; bbox 0 0 1873 3095; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 275 218 886 346">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 433 231 773 291">
+     <span class='ocr_line' id='line_1_1' title="bbox 433 231 738 256; baseline 0.013 -8"><span class='ocrx_word' id='word_1_1' title='bbox 433 231 536 250; x_wconf 71' lang='grc' dir='ltr'><strong>Ργῦηεειοη</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 545 232 653 255; x_wconf 78' lang='lat' dir='ltr'><strong>Umvemly</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 663 233 738 256; x_wconf 80' lang='lat' dir='ltr'><strong>Library</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 437 259 773 291; baseline 0.006 -20"><span class='ocrx_word' id='word_1_4' title='bbox 437 259 533 284; x_wconf 33' lang='lat' dir='ltr'><strong>unw“</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 566 264 567 267; x_wconf 61' lang='grc' dir='ltr'><strong>η</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 605 259 773 291; x_wconf 36' lang='grc' dir='ltr'><strong>¹λξηιμη</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 437 260 773 322">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 437 260 773 322">
+     <span class='ocr_line' id='line_1_3' title="bbox 437 260 773 322; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 437 260 773 322; x_wconf 70' lang='grc' dir='ltr'><strong>ΕΙΠΙΙΉΙΙΙΙΙΙΙΙΙΙΙΗΙΙΙΙΙΙΜ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 697 250 886 346">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 697 250 882 346">
+     <span class='ocr_line' id='line_1_4' title="bbox 697 250 882 346; baseline 0.011 -1"><span class='ocrx_word' id='word_1_8' title='bbox 697 250 882 346; x_wconf 64' lang='lat' dir='ltr'><strong>nmmu—</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>

@@ -1,0 +1,22 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/1/hvd.32044054128335/004.png"; bbox 0 0 4242 6266; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3494 4581 3573 4627">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3494 4581 3573 4627">
+     <span class='ocr_line' id='line_1_1' title="bbox 3494 4581 3573 4627; baseline 0.051 -4"><span class='ocrx_word' id='word_1_1' title='bbox 3494 4581 3573 4627; x_wconf 48' lang='lat' dir='ltr'><strong>hii</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3352 4782 3934 4850">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3352 4782 3934 4850">
+     <span class='ocr_line' id='line_1_2' title="bbox 3352 4782 3934 4850; baseline 0.015 -9"><span class='ocrx_word' id='word_1_2' title='bbox 3352 4782 3488 4844; x_wconf 53' lang='lat' dir='ltr'><strong>uOS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 3547 4784 3934 4850; x_wconf 79' lang='lat' dir='ltr'><strong>SCIENTUE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 84 4854 1824 6168">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 88 4858 1819 6164">
+     <span class='ocr_line' id='line_1_3' title="bbox 88 4858 1071 5367; baseline 0 -288"><span class='ocrx_word' id='word_1_4' title='bbox 88 4858 841 5367; x_wconf 52' lang='grc' dir='ltr'><strong>,μη</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 896 5040 1063 5288; x_wconf 69' lang='lat'><strong><em>_</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 88 5428 1819 6164; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 88 5428 215 6075; x_wconf 59' lang='lat'>4</span> <span class='ocrx_word' id='word_1_7' title='bbox 1703 5602 1819 6164; x_wconf 68' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
